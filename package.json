@@ -1,6 +1,6 @@
 {
   "name": "code-challenge-n-queens",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Solve various n-queens problems.",
   "main": "n-queens.js",
   "repository": {
