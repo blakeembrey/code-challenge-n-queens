@@ -1,5 +1,7 @@
 # Code Challenge: N-Queens
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/code-challenge-n-queens.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Gittip][gittip-image]][gittip-url]
 
