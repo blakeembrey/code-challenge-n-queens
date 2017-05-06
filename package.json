@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/blakeembrey/code-challenge-n-queens",
   "dependencies": {
-    "code-challenge": "0.0.1"
+    "code-challenge": "0.0.5"
   }
 }
